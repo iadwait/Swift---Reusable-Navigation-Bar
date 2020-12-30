@@ -1,2 +1,3 @@
 - Add BaseViewController as Super Class of your ViewController.
+- Call ConfigureNavBar1 method in your viewDidLoad()
 - Do Changes According to your need in BaseViewController's ConfigureNavBar1 method.
